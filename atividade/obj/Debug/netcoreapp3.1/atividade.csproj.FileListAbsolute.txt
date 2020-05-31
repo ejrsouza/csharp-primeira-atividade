@@ -1,0 +1,13 @@
+C:\Users\Junior\Documents\Curso - DIO\csharp-atividade\atividade\bin\Debug\netcoreapp3.1\atividade.exe
+C:\Users\Junior\Documents\Curso - DIO\csharp-atividade\atividade\bin\Debug\netcoreapp3.1\atividade.deps.json
+C:\Users\Junior\Documents\Curso - DIO\csharp-atividade\atividade\bin\Debug\netcoreapp3.1\atividade.runtimeconfig.json
+C:\Users\Junior\Documents\Curso - DIO\csharp-atividade\atividade\bin\Debug\netcoreapp3.1\atividade.runtimeconfig.dev.json
+C:\Users\Junior\Documents\Curso - DIO\csharp-atividade\atividade\bin\Debug\netcoreapp3.1\atividade.dll
+C:\Users\Junior\Documents\Curso - DIO\csharp-atividade\atividade\bin\Debug\netcoreapp3.1\atividade.pdb
+C:\Users\Junior\Documents\Curso - DIO\csharp-atividade\atividade\obj\Debug\netcoreapp3.1\atividade.csprojAssemblyReference.cache
+C:\Users\Junior\Documents\Curso - DIO\csharp-atividade\atividade\obj\Debug\netcoreapp3.1\atividade.AssemblyInfoInputs.cache
+C:\Users\Junior\Documents\Curso - DIO\csharp-atividade\atividade\obj\Debug\netcoreapp3.1\atividade.AssemblyInfo.cs
+C:\Users\Junior\Documents\Curso - DIO\csharp-atividade\atividade\obj\Debug\netcoreapp3.1\atividade.csproj.CoreCompileInputs.cache
+C:\Users\Junior\Documents\Curso - DIO\csharp-atividade\atividade\obj\Debug\netcoreapp3.1\atividade.dll
+C:\Users\Junior\Documents\Curso - DIO\csharp-atividade\atividade\obj\Debug\netcoreapp3.1\atividade.pdb
+C:\Users\Junior\Documents\Curso - DIO\csharp-atividade\atividade\obj\Debug\netcoreapp3.1\atividade.genruntimeconfig.cache
