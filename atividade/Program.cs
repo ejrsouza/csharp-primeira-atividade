@@ -35,6 +35,14 @@ namespace atividade
                    break;
 
                    case "2":
+                   foreach (var al in alunos)
+                   {
+                       if (!string.IsNullOrEmpty(al.Nome))
+                       {
+                           Console.WriteLine($"ALUNO: {al.Nome} - NOTA: {al.Nota}");
+                       }
+                       
+                   }
                    break;
 
                    case "3":
