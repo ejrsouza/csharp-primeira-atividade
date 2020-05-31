@@ -58,7 +58,30 @@ namespace atividade
                        }
                    }
                    var mediaGeral = notaTotal / numeroAlunos;
-                   Console.WriteLine($"MÉDIA GERAL: {mediaGeral}");
+                    Conceito conceitoGeral;
+
+                   if ( mediaGeral <= 2)
+                   {
+                       conceitoGeral = Conceito.E;
+                   }
+                   else if (mediaGeral <= 4)
+                   {
+                       conceitoGeral = Conceito.D;
+                   }
+                    else if (mediaGeral <= 6)
+                   {
+                       conceitoGeral = Conceito.C;
+                   }
+                    else if (mediaGeral <= 8)
+                   {
+                       conceitoGeral = Conceito.B;
+                   }
+                    else
+                   {
+                       conceitoGeral = Conceito.A;
+                   }
+
+                   Console.WriteLine($"MÉDIA GERAL: {mediaGeral} - CONCEITO: {conceitoGeral}");
 
                    break;
 
